@@ -1,0 +1,2 @@
+npm i express, jsonwebtoken, sequelize, bcrypt, multer, xlsx, cors, dotenv cookie-parser
+npm i nodemon
